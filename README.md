@@ -1,36 +1,59 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Mohamed Afzal - AI/ML Engineer Portfolio
 
-## Getting Started
+Welcome to the source code for my professional portfolio! This is a modern, highly interactive, and performant web application built to showcase my skills, projects, and experience as an AI & Machine Learning Engineer.
 
-First, run the development server:
+## 🚀 Live Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+*(Add your deployment link here, e.g., [https://afzal-portfolio.vercel.app](https://afzal-portfolio.vercel.app))*
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This portfolio is built using a modern, blazing-fast web stack:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Framework**: [Next.js](https://nextjs.org/) (React)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Icons**: [Lucide React](https://lucide.dev/) & [React Icons](https://react-icons.github.io/react-icons/)
+- **Smooth Scrolling**: [Lenis](https://lenis.darkroom.engineering/)
 
-## Learn More
+## ✨ Key Features
 
-To learn more about Next.js, take a look at the following resources:
+- **Premium UI/UX**: Implements high-end design trends like glassmorphism, fluid gradients, and cinematic 3D transformations.
+- **Interactive Backgrounds**: Features dynamic, cursor-tracking "lava lamp" gradients with floating particles.
+- **3D Flip Cards**: Engaging UI elements like interactive flip cards for certifications.
+- **Smooth Scrolling**: Premium scroll physics using Lenis.
+- **Dark/Light Mode**: Full theme toggling support for optimal viewing in any environment.
+- **Fully Responsive**: Flawless layout adapting perfectly to mobile, tablet, and desktop viewports.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 💻 Running Locally
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+To run this project on your local machine, follow these steps:
 
-## Deploy on Vercel
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/MohamedAfzal0719/portfolio.git
+   cd portfolio
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+3. **Run the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser:**
+   Navigate to [http://localhost:3000](http://localhost:3000) to see the application in action.
+
+## 📬 Contact Me
+
+- **Email:** afzalmohamed098@gmail.com
+- **LinkedIn:** [Mohamed Afzal](https://www.linkedin.com/in/mohamed-afzal-6732a7202/)
+- **GitHub:** [MohamedAfzal0719](https://github.com/MohamedAfzal0719)
+
+---
+
+*Designed and developed by Mohamed Afzal.*
